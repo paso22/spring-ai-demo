@@ -1,0 +1,240 @@
+[
+  {
+    "name": "The Shawshank Redemption",
+    "year": 1994,
+    "rating": 9.3,
+    "director": "Frank Darabont",
+    "main_starring": [
+      "Tim Robbins",
+      "Morgan Freeman"
+    ]
+  },
+  {
+    "name": "The Godfather",
+    "year": 1972,
+    "rating": 9.2,
+    "director": "Francis Ford Coppola",
+    "main_starring": [
+      "Marlon Brando",
+      "Al Pacino"
+    ]
+  },
+  {
+    "name": "The Dark Knight",
+    "year": 2008,
+    "rating": 9.0,
+    "director": "Christopher Nolan",
+    "main_starring": [
+      "Christian Bale",
+      "Heath Ledger"
+    ]
+  },
+  {
+    "name": "The Godfather Part II",
+    "year": 1974,
+    "rating": 9.0,
+    "director": "Francis Ford Coppola",
+    "main_starring": [
+      "Al Pacino",
+      "Robert De Niro"
+    ]
+  },
+  {
+    "name": "12 Angry Men",
+    "year": 1957,
+    "rating": 9.0,
+    "director": "Sidney Lumet",
+    "main_starring": [
+      "Henry Fonda"
+    ]
+  },
+  {
+    "name": "Schindler's List",
+    "year": 1993,
+    "rating": 9.0,
+    "director": "Steven Spielberg",
+    "main_starring": [
+      "Liam Neeson",
+      "Ralph Fiennes"
+    ]
+  },
+  {
+    "name": "The Lord of the Rings: The Return of the King",
+    "year": 2003,
+    "rating": 8.9,
+    "director": "Peter Jackson",
+    "main_starring": [
+      "Elijah Wood",
+      "Viggo Mortensen"
+    ]
+  },
+  {
+    "name": "Pulp Fiction",
+    "year": 1994,
+    "rating": 8.9,
+    "director": "Quentin Tarantino",
+    "main_starring": [
+      "John Travolta",
+      "Samuel L. Jackson"
+    ]
+  },
+  {
+    "name": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "rating": 8.8,
+    "director": "Peter Jackson",
+    "main_starring": [
+      "Elijah Wood",
+      "Ian McKellen"
+    ]
+  },
+  {
+    "name": "The Good, the Bad and the Ugly",
+    "year": 1966,
+    "rating": 8.8,
+    "director": "Sergio Leone",
+    "main_starring": [
+      "Clint Eastwood",
+      "Eli Wallach"
+    ]
+  },
+  {
+    "name": "Fight Club",
+    "year": 1999,
+    "rating": 8.8,
+    "director": "David Fincher",
+    "main_starring": [
+      "Brad Pitt",
+      "Edward Norton"
+    ]
+  },
+  {
+    "name": "Forrest Gump",
+    "year": 1994,
+    "rating": 8.8,
+    "director": "Robert Zemeckis",
+    "main_starring": [
+      "Tom Hanks",
+      "Robin Wright"
+    ]
+  },
+  {
+    "name": "Inception",
+    "year": 2010,
+    "rating": 8.8,
+    "director": "Christopher Nolan",
+    "main_starring": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt"
+    ]
+  },
+  {
+    "name": "One Flew Over the Cuckoo's Nest",
+    "year": 1975,
+    "rating": 8.7,
+    "director": "Miloš Forman",
+    "main_starring": [
+      "Jack Nicholson",
+      "Louise Fletcher"
+    ]
+  },
+  {
+    "name": "The Matrix",
+    "year": 1999,
+    "rating": 8.7,
+    "director": "Lana & Lilly Wachowski",
+    "main_starring": [
+      "Keanu Reeves",
+      "Laurence Fishburne"
+    ]
+  },
+  {
+    "name": "Goodfellas",
+    "year": 1990,
+    "rating": 8.7,
+    "director": "Martin Scorsese",
+    "main_starring": [
+      "Ray Liotta",
+      "Robert De Niro"
+    ]
+  },
+  {
+    "name": "Star Wars: Episode V – The Empire Strikes Back",
+    "year": 1980,
+    "rating": 8.7,
+    "director": "Irvin Kershner",
+    "main_starring": [
+      "Mark Hamill",
+      "Harrison Ford"
+    ]
+  },
+  {
+    "name": "Seven Samurai",
+    "year": 1954,
+    "rating": 8.6,
+    "director": "Akira Kurosawa",
+    "main_starring": [
+      "Toshirô Mifune"
+    ]
+  },
+  {
+    "name": "Life Is Beautiful",
+    "year": 1997,
+    "rating": 8.6,
+    "director": "Roberto Benigni",
+    "main_starring": [
+      "Roberto Benigni",
+      "Nicoletta Braschi"
+    ]
+  },
+  {
+    "name": "The Silence of the Lambs",
+    "year": 1991,
+    "rating": 8.6,
+    "director": "Jonathan Demme",
+    "main_starring": [
+      "Jodie Foster",
+      "Anthony Hopkins"
+    ]
+  },
+  {
+    "name": "It's a Wonderful Life",
+    "year": 1946,
+    "rating": 8.6,
+    "director": "Frank Capra",
+    "main_starring": [
+      "James Stewart",
+      "Donna Reed"
+    ]
+  },
+  {
+    "name": "Seven",
+    "year": 1995,
+    "rating": 8.6,
+    "director": "David Fincher",
+    "main_starring": [
+      "Brad Pitt",
+      "Morgan Freeman"
+    ]
+  },
+  {
+    "name": "Star Wars: Episode IV – A New Hope",
+    "year": 1977,
+    "rating": 8.6,
+    "director": "George Lucas",
+    "main_starring": [
+      "Mark Hamill",
+      "Harrison Ford"
+    ]
+  },
+  {
+    "name": "City of God",
+    "year": 2002,
+    "rating": 8.6,
+    "director": "Fernando Meirelles",
+    "main_starring": [
+      "Alexandre Rodrigues",
+      "Leandro Firmino"
+    ]
+  }
+]
